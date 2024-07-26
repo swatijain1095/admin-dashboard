@@ -1,3 +1,27 @@
+This is an admin dashboard UI built with Next.js. It is only the front-end interface so we are just using files for the data.
+
+# Live Demo
+https://admin-dashboard-eta-ebon.vercel.app/
+
+# Preview
+![Img1](https://github.com/user-attachments/assets/79f656f3-6689-46d1-8a19-fe51842f43ec)
+![Img2](https://github.com/user-attachments/assets/67e63e5d-1c30-4ccc-9943-93e36a21ddd8)
+![Img5](https://github.com/user-attachments/assets/aceb6dde-594c-4a5d-82ab-83a6a858ea82)
+![Img4](https://github.com/user-attachments/assets/5ef75243-4615-418e-b94c-a783b07b8e66)
+
+
+# Technologies Used
+- Next.js/React
+- TypeScript
+- Shadcn/ui
+- Tailwind CSS
+- Recharts
+- Lucide React
+- React Hook Form
+- Zod
+- Next Themes
+
+# 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
