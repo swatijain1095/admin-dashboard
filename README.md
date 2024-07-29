@@ -1,3 +1,4 @@
+# Admin Dashboard
 This is an admin dashboard UI built with Next.js. It is only the front-end interface so we are just using files for the data.
 
 # Live Demo
